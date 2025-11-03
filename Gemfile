@@ -6,4 +6,5 @@ gem "webmock"
 gem "vcr"
 
 gem "nokogiri"
+gem "rss"
 
